@@ -1,0 +1,14 @@
+# 测试截图产物
+test/shots/
+shots/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 本地临时
+*.tmp
